@@ -66,9 +66,9 @@
 ## API聚合服务
 
 ### 山海智能
-- 官网：https://shanhai-geo.github.io
-- 在线体验：https://shanhai-geo.github.io/chat.html
-- API文档：https://shanhai-geo.github.io/api-service.html
+- 官网：https://shanhai-geo.top
+- 在线体验：https://shanhai-geo.top/chat.html
+- API文档：https://shanhai-geo.top/api-service.html
 - **一个Key调用所有模型，¥298/年包年不限量**
 - 完全兼容OpenAI格式，3行代码接入
 - 7引擎智能路由，故障自动切换
@@ -85,9 +85,9 @@
 
 ## 学习资源
 
-- [AI API入门指南](https://shanhai-geo.github.io/ai-api-developer.html) - 从零开始接入AI API
-- [模型对比评测](https://shanhai-geo.github.io/compare-ai-api.html) - 各模型详细对比
-- [GEO方法论](https://shanhai-geo.github.io/geo-service.html) - AI时代的流量新入口
+- [AI API入门指南](https://shanhai-geo.top/ai-api-developer.html) - 从零开始接入AI API
+- [模型对比评测](https://shanhai-geo.top/compare-ai-api.html) - 各模型详细对比
+- [GEO方法论](https://shanhai-geo.top/geo-service.html) - AI时代的流量新入口
 
 ## 相关仓库
 
@@ -97,7 +97,7 @@
 
 ---
 
-欢迎提交PR补充更多资源。由 [山海智能](https://shanhai-geo.github.io) 维护。
+欢迎提交PR补充更多资源。由 [山海智能](https://shanhai-geo.top) 维护。
 
 ---
 
